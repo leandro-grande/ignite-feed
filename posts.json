@@ -1,0 +1,24 @@
+{
+  "posts":  [
+    {
+      "id": 1,
+      "name": "Jane Cooper",
+      "position": "Dev Front-End",
+      "avatar": "/avatar1.png",
+      "body": "Fala galeraa 👋 Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀",
+      "social": "👉 jane.design/doctorcare",
+      "hashtag": "#novoprojeto #nlw #rocketseat",
+      "feedback": []
+    },
+    {
+      "id": 2,
+      "name": "Devon Lane",
+      "position": "Dev Front-End",
+      "avatar": "/avatar2.png",
+      "body": "Fala pessoal 👋 Finalmente finalizei meu novo site/portfólio. Foi um baita desafio criar todo o design e codar na unha, mas consegui 💪🏻 ",
+      "social": "👉 devonlane.design",
+      "hashtag": "#uiux #userexperience",
+      "feedback": []
+    }
+  ]
+}
